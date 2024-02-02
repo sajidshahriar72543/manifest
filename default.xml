@@ -1273,4 +1273,5 @@
 
   <include name="snippets/remove.xml" />
   <include name="snippets/blaster.xml" />
+  <include name="snippets/qcom.xml" />
 </manifest>
