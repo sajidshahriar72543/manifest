@@ -89,6 +89,9 @@
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/base" />
 
+  <!-- Hardware -->
+  <remove-project name="platform/hardware/libhardware" />
+
   <!-- Packages -->
   <remove-project name="platform/packages/apps/Launcher3" />
   <remove-project name="platform/packages/apps/Settings" />
